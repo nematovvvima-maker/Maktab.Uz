@@ -1,0 +1,6 @@
+{
+  "name": "Maktab.Uz",
+  "description": "Maktab.Uz - O'qituvchi Boshqaruv Paneli va O'quvchilar Monitoringi Tizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
